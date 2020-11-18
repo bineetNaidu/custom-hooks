@@ -10,9 +10,7 @@ Pick one hook as per your projects needs weather it's on TypeScript or JavaScrip
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Make sure to read the CONTRIBUTING.md file
 
 ## License
 
